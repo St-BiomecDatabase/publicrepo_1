@@ -1,1 +1,2 @@
-
+model_name,params,r_squared,constraint_value,note
+Model 2,[1.3994605762332972e-11, 2.5178817069528246e-13, 1.6659542510398364],0.046032792702952574,None,n
