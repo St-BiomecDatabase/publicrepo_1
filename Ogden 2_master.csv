@@ -1,2 +1,3 @@
 model_name,params,r_squared,constraint_value,note
 Ogden 2,[1.0, 1.0, 1.0, 1.0],-0.4047285629314863,2.0,n
+Ogden 2,[1.0, 1.0, 1.0, 1.0],-0.5837938190250436,2.0,n
